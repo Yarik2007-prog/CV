@@ -1,0 +1,37 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    width: auto;
+    height: auto;
+}
+
+.header-list{
+    margin-top: 2%;
+}
+
+.specification{
+    margin-top: 2%;
+}
+
+.about-persone{
+    margin-top: 3%;
+    width: 50%;
+}
+
+h2{
+    margin-top: 2%;
+}
+
+article{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-top: 1px solid rgb(73, 73, 73);
+}
+
+article section{
+    width: 50%;
+    margin-top: 2%;
+}
